@@ -57,7 +57,7 @@ echo '';
   </style>
 </head>
 <body style="padding:0px;margin:0px;">
-  <table style="border-bottom:1px solid #cecece; width:100%;box-sizing:border-box;position:fixed;top:0px;padding-bottom:10px;background:white;z-index: 999394294;">
+  <table style="border-bottom:0.2px solid #cecece; width:100%;box-sizing:border-box;position:fixed;top:0px;padding-bottom:1px;background:white;z-index: 999394294;">
 
     <tr class="tiktok_tr">
       
