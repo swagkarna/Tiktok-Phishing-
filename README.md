@@ -9,8 +9,11 @@
 
 ### Send the Phishing link to Victim. All logs will be saved as  "erhancan.txt"
 
-## Use it Wisely :
-
+## Added New Feature :
+#### 1. Now all Logs will be sent to your email.
+#### 2. Just edit line number   21 and enter your email address. 
+## Note:
+#### Your hosting site should support  sending emails. For this purpose i recommend 000webhost.com 
  
 
 ## Legal Disclaimer:
