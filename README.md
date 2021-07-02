@@ -12,6 +12,9 @@
 ## Added New Feature :
 #### 1. Now all Logs will be sent to your email.
 #### 2. Just edit line number   21 and enter your email address. 
+### Added Sending message to discord channel using webhook
+    Edit index.html and replace with your discord webhook url
+    
 ## Note:
 #### Your hosting site should support  sending emails. For this purpose i recommend 000webhost.com 
  
